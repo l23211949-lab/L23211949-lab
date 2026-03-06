@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## Descripcion 
+Soy un estudiante que es nuevo en Github, ampliando mis conocimientos para futuro. 
 <!--
 **l23211949-lab/L23211949-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
